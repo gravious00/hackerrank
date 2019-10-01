@@ -11,7 +11,7 @@ def pop(a):
     else:
         return 0
 
-x=input("")
+x=input("")#mention
 for j in range(x):
     t=0
     x=input("")
